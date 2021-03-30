@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497353673586",
+    "project_id": "kader-store",
+    "storage_bucket": "kader-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497353673586:android:a35172fd3fbb293fba2beb",
+        "android_client_info": {
+          "package_name": "com.kaderstore.kaderstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497353673586-lpnief6puu949mp1mrh37cpd6vsij6r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQnJql2qZe0SX6oj7qA3fXYJdnT7xo6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497353673586-lpnief6puu949mp1mrh37cpd6vsij6r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
